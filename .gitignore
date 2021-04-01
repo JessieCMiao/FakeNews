@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+# Big Data files 
+test.csv
+train.csv
+CleanFakeNews.csv
